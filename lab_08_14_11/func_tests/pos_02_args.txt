@@ -1,0 +1,1 @@
+a ./func_tests/shared/data_pos_03.txt ./func_tests/shared/data_pos_04.txt ./func_tests/pos_02_out.txt

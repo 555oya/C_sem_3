@@ -1,0 +1,1 @@
+func_tests/shared/data_neg_02.txt func_tests/neg_05_out.txt
